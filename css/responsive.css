@@ -850,62 +850,76 @@ line-height:1.8;
 }
 
 /* ==========================================================
-   GALLERY
+   GALLERY MOBILE
 ========================================================== */
 
 @media (max-width:768px){
 
+#gallery{
+
+    padding:20px;
+    overflow-y:auto;
+
+}
+
 .memory-card{
 
-width:100%;
+    position:relative;
 
-max-width:380px;
+    left:auto;
+    top:auto;
 
-padding:20px;
+    transform:none;
+
+    width:100%;
+
+    max-width:380px;
+
+    margin:30px auto;
+
+    padding:18px;
 
 }
 
 #memoryImage{
 
-width:100%;
+    width:100%;
 
-height:auto;
+    max-height:42vh;
 
-object-fit:contain;
-
-border-radius:20px;
-
-display:block;
+    object-fit:contain;
 
 }
 
 .memoryMessage{
 
-font-size:16px;
+    font-size:17px;
 
-line-height:1.8;
+    line-height:1.6;
 
-margin-top:18px;
+    padding:0;
 
-}
+    margin-top:18px;
 
-.progress{
-
-font-size:15px;
-
-}
-
-.progressBar{
-
-height:8px;
+    min-height:auto;
 
 }
 
 #nextMemory{
 
-width:100%;
+    width:100%;
 
-margin-top:20px;
+    margin-top:20px;
+
+    padding:15px;
+
+    font-size:17px;
+
+}
+
+.progress{
+
+    font-size:16px;
 
 }
 
