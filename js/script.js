@@ -1544,7 +1544,7 @@ tane khbr hashe k aapre kadi face 2 face
  ander feeling divase n divase strong thati
 jay chhe.pela divas ae jyare te mane unblock
 karyo tyare mu khush thai gyo toh pan taro
-massage joi n maru mood khrb thai gyu yrr tu 
+massage joi n maru mood kharab thai gyu yrr tu 
 jyare bhaiya k chhe n bau j hurt chhe haa man
 khbr s k aa duniya ma badha tara bhai s except 1 
 have aa situation ma mari jode 3 possiblities chhe
