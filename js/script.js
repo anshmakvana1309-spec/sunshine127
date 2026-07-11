@@ -1542,7 +1542,16 @@ continue rai hashe.
 tane khbr hashe k aapre kadi face 2 face
  vaat nhi kari toh pan khbr nai kem mari 
  ander feeling divase n divase strong thati
-jay chhe.pela divas ae jyare te mane unblock
+jay chhe.pan atyare haal j mane afwaah sabhadwa mali k tu bija 
+koik saathe relatinship ma aai gai aapdi navoday ma j
+joke mu aa vaat nhi monto pan pachhin prithviraj ae mane 
+screenshots moklya hachu kau bau j hurt thay s
+approx roi j gyo to mu aa hobhdin ghana time pas aatlu dukh thay s
+hachu kau love ma feeling toh pachhi aave pela destiny 
+aave je k mara khilaaf s man nhi khbr k ae kon s
+pan aagar tu aena sathe khush s toh hamesha khush reje 
+mari toh aaj ichha s k tu khush roy ane haa
+pela divas ae jyare te mane unblock
 karyo tyare mu khush thai gyo toh pan taro
 massage joi n maru mood kharab thai gyu yrr tu 
 jyare bhaiya k chhe n bau j hurt chhe haa man
